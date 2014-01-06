@@ -1,0 +1,45 @@
+PODS:
+  - ADBIndexedTableView (1.1.0)
+  - ASIHTTPRequest (1.8.1):
+    - ASIHTTPRequest/ASIWebPageRequest
+    - ASIHTTPRequest/CloudFiles
+    - ASIHTTPRequest/S3
+    - Reachability
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.1):
+    - Reachability
+  - ASIHTTPRequest/CloudFiles (1.8.1):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.1):
+    - Reachability
+  - ConciseKit (0.1.2)
+  - InputToolbar (0.0.1)
+  - JSMessagesViewController (3.4.1):
+    - JSQSystemSoundPlayer
+  - JSQSystemSoundPlayer (1.4.0)
+  - Reachability (3.1.1)
+  - RequestUtils (1.0.1)
+  - SDWebImage (3.5.1):
+    - SDWebImage/Core
+  - SDWebImage/Core (3.5.1)
+
+DEPENDENCIES:
+  - ADBIndexedTableView (~> 1.1.0)
+  - ASIHTTPRequest (~> 1.8.1)
+  - ConciseKit (~> 0.1.2)
+  - InputToolbar (~> 0.0.1)
+  - JSMessagesViewController (~> 3.4.0)
+  - RequestUtils (~> 1.0.1)
+  - SDWebImage (~> 3.5.1)
+
+SPEC CHECKSUMS:
+  ADBIndexedTableView: 4c045f77e9d365322685910fd0d8c81a7a72ffcd
+  ASIHTTPRequest: 162783e0cd71bdd3ff1ceed0cd5fa9505e0116a8
+  ConciseKit: 1e086a66d098ba160ca5faa86458a0431b280b30
+  InputToolbar: cef1a11732fb3ba474158815bcd3c4cf21ca33bf
+  JSMessagesViewController: d0b4cc6bb25a129e92c7bea32378412fd8febc92
+  JSQSystemSoundPlayer: 28ccd01a92a0cebc6de6361e8499011b4cb6dab7
+  Reachability: be4883bb93f31e38266ae3365e5600a317aae735
+  RequestUtils: a9e899e5c2ad23af69a351e3f11dede7d5b6ba31
+  SDWebImage: a408b548a634b792372e07e753fc1079aff5032a
+
+COCOAPODS: 0.28.0

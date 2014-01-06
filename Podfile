@@ -1,0 +1,7 @@
+pod 'SDWebImage', '~> 3.5.1'
+ pod 'ASIHTTPRequest', '~> 1.8.1'
+pod 'RequestUtils', '~> 1.0.1'
+pod 'ConciseKit', '~> 0.1.2'
+pod 'ADBIndexedTableView', '~> 1.1.0'
+pod 'JSMessagesViewController', '~> 3.4.0'
+pod 'InputToolbar', '~> 0.0.1'
